@@ -48,7 +48,8 @@ https://user-images.githubusercontent.com/57095736/151350485-8a6489df-6b5b-4dc2-
 
 https://user-images.githubusercontent.com/57095736/151403823-f447cad2-b03b-4e19-a343-6185afea1baf.mp4
 
-* Movimiento de cámara mediante marcadores aruco y solución paralaje vertical/horizontal.
+* Movimiento de cámara mediante marcadores aruco y solución paralaje vertical/horizontal
+Trasladar el movimiento del marcador aruco a una cámara virtual y ajustes de proyección para solucionar probelmas de paralaje vertical/horizontal.
 
 
 https://user-images.githubusercontent.com/57095736/151406642-d59f6786-15a2-4065-af97-efed53e311d8.mp4
