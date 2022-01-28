@@ -54,5 +54,8 @@ Trasladar el movimiento del marcador aruco a una cámara virtual y ajustes de pr
 
 https://user-images.githubusercontent.com/57095736/151406642-d59f6786-15a2-4065-af97-efed53e311d8.mp4
 
+* Juegos desarrollados  
+  
+  En mi <a href="https://raul2000.itch.io/" target="_blank"> itch.io </a> podemos ver algunos de los juegos que he desarrollado en los últimos años, los que destaco principalmente son *ME.ME.O*, un juego multijugador cooperativo con una arquitectura de cliente servidor mediante paso de mensajes, y *Zoo Escape* otro juego multijugador cooperativo dasarrollado con Photon. 
 
  
