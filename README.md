@@ -20,7 +20,7 @@ Durante el Grado he descubierto mi interés por la programación, es algo que di
  ### Algunos de mis proyectos
  * Salida de un laberinto y atrapar a los enemigos
    * Algoritmo A* y búsqueda con horizonte  
-   He diseñdo un algoritmo A* que, usando como función heurística la distancia Manhatan, puede resolver un laberinto si le indicamos la posición inicial y salida del mismo. Para atrapar a los enemigos usé una búsqueda con horizonte, debido a que en cada iteración cambiarían de posición, por ello sólo calculamos el árbol hasta una profundidad k. Esta k la vamos actualizando en cada iteración usando la distancia Manhattan entre el personaje y el objetivo, obteniendo mejores resultados que con una k constante.
+   He diseñdo un algoritmo A* que, usando como función heurística la distancia Manhattan, puede resolver un laberinto si le indicamos la posición inicial y salida del mismo. Para atrapar a los enemigos usé una búsqueda con horizonte, debido a que en cada iteración cambiarían de posición, por ello sólo calculamos el árbol hasta una profundidad k. Esta k la vamos actualizando en cada iteración usando la distancia Manhattan entre el personaje y el objetivo, obteniendo mejores resultados que con una k constante.
    
 
 https://user-images.githubusercontent.com/57095736/151347927-29053dfd-3637-4713-b2b0-72dc1206aca0.mp4
